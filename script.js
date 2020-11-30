@@ -1,10 +1,10 @@
 function verificar() {
   var data = new Date();
   var ano = data.getFullYear();
-  var formano = document.getElementById('txtano');
+  var form = document.getElementById('txtano');
   var res = document.querySelector('div#res');
   var fsex = document.getElementsByTagName('radsex');
-  var idade = ano - Number(formano.value);
+  var idade = ano - Number(form.value);
   var genero = '';
   var img = document.creatElement('img');
   if (fsex[0].checked) {
