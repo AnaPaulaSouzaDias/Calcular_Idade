@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Verificador de Idade</title>
     <link rel="stylesheet" href="estilo.css" />
   </head>
@@ -23,7 +24,15 @@
           <input type="radio" name="radsex" id="fem" />
           <label for="fem">Feminino</label>
         </p>
-        <input type="button" value="Verificar" onClick="verificar()" />
+        <p>
+          <button
+            type="button"
+            class="btn btn-dark btn-lg btn-block"
+            onclick="verificar()"
+          >
+            realizar verificação
+          </button>
+        </p>
       </div>
       <div id="res">Preencha os dados acima para ver o resultado!!</div>
     </section>
