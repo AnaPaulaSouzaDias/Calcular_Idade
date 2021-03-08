@@ -6,7 +6,7 @@
 
 <div align="center">
   <sub> Projeto Master Discover. Construido com  ❤ por
-    <a href="https://github.com/AnaPaulaSouzaDias" align="center">Ana Paula</a>  
+    <a href="https://github.com/AnaPaulaSouzaDias">Ana Paula</a>  
   </sub>
 </div>
 
@@ -22,7 +22,7 @@ Este projeto usou as seguintes tecnologias
 * [Javascript]   
      
 # Clonar repositorio
-$ git clone https://github.com/AnaPaulaSouzaDias/FinancasRocketseat
+$ git clone https://github.com/AnaPaulaSouzaDias/Calcular_Idade
 
 
 Feito com amor por [Ana Paula Souza Dias](https://github.com/AnaPaulaSouzaDias/Calcular_Idade) 🚀.
