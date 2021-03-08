@@ -6,7 +6,7 @@
 
 <div align="center">
   <sub> Projeto Master Discover. Construido com  ❤ por
-    <a href="https://github.com/AnaPaulaSouzaDias">Ana Paula</a>  
+    <a href="https://github.com/AnaPaulaSouzaDias" align="center">Ana Paula</a>  
   </sub>
 </div>
 
