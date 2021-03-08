@@ -1,7 +1,7 @@
 function verificar() {
   var data = new Date()
   var ano = data.getFullYear()
-  var form = document.getElementById('txtano')
+  var form = document.getElementByName('txtano')
   var res = document.getElementById('res')
   var fsex = document.getElementsByName('radsex')
   var idade = ano - Number(form.value)

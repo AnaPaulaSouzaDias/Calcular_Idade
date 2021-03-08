@@ -1,2 +1,32 @@
-# Calcular_Idade
- Calcula a idade e mostra uma foto de uma pessoa com aquela idade
+> :CursoemVideo: Calcula a idade e com base no sexo mostra uma foto com uma pessoa nesta mesma faixa de idade
+
+<p align="center">
+    <a href="README-pt.md">Portuguese</a>
+ </p>
+
+<div align="center">
+  <sub> Projeto Master Discover. Construido com  ❤ por
+    <a href="https://github.com/AnaPaulaSouzaDias">Ana Paula</a>  
+  </sub>
+</div>
+
+<div>
+   <img src="./.github/layout.png" width="400px">
+</div>
+
+# :computer: Tecnologias
+Este projeto usou as seguintes tecnologias
+
+* [Html]  
+* [Css]
+* [Javascript]   
+     
+# Clonar repositorio
+$ git clone https://github.com/AnaPaulaSouzaDias/FinancasRocketseat
+
+
+Feito com amor por [Ana Paula Souza Dias](https://github.com/AnaPaulaSouzaDias/Calcular_Idade) 🚀.
+Este projeto esta pela licença [MIT license](./LICENSE).
+
+
+Deixe uma ⭐ se este projeto te ajudou
