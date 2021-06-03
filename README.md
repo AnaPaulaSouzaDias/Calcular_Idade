@@ -1,4 +1,4 @@
-> :CursoemVideo: Calcula a idade e com base no sexo mostra uma foto com uma pessoa nesta mesma faixa de idade
+> CursoemVideo: Calcula a idade e com base no sexo mostra uma foto com uma pessoa nesta mesma faixa de idade
 
 <p align="center">
     <a href="README-pt.md">Portuguese</a>
@@ -12,9 +12,9 @@
 
 <div>
 <p>
-   <img src="./.github/layout.png" width="300px">
-   <img src="./.github/layout1.jpeg" width="300px">
-   <img src="./.github/layout2.jpeg" width="300px">
+   <img src="./.github/layout.png" width="400px">
+   <img src="./.github/layout1.jpeg" width="400px">
+   <img src="./.github/layout2.jpeg" width="400px">
    </p>
 </div>
 
